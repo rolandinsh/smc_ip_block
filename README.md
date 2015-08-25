@@ -1,5 +1,5 @@
 # SimpleMediaCode.com IP block list
-Blocked IP's on http://SimpleMediaCode.com and http://MediaBox.lv servers.
+Blocked IP's on http://SimpleMediaCode.com and http://MediaBox.lv servers from brute-force attacks
 
 # Why?
 
